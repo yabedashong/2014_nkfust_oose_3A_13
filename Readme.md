@@ -55,3 +55,33 @@
 　  <td>建立與修改欲租車者資料</td>
 　  <td>顧客基本資料作業</td>
   </tr>
+　<tr>
+　  <th>即時查詢租車資訊</th>
+　  <th>即時查詢作業</th>
+　</tr>
+　<tr>
+　  <th>登記欲借車種、地點</th>
+　  <th>處理租車記錄</th>
+　</tr>
+　<tr>
+　  <th>預付訂金</th>
+　  <th>付款處理作業</th>
+　</tr>
+　<tr>
+　  <th>登記欲還車之地點</th>
+　  <th>登記還車作業</th>
+　</tr>
+　<tr>
+　  <th>出租次數</th>
+　  <th>銷售分析作業</th>
+　</tr>
+</table>
+[Top](#Contents)
+
+## 使用案例圖 ##
+
+<p><img src="http://i.imgur.com/t0RhxeO.png?1" title="使用案例圖" /></p>
+[Top](#Contents)
+
+## 個別使用案例的描述 ##
+
