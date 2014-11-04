@@ -88,7 +88,7 @@
 
 ## 使用案例圖
 
-<p><img src="http://i.imgur.com/quMhnWd.png" title="使用案例圖" /></p>
+<p><img src="http://i.imgur.com/O9rLpQz.png" title="使用案例圖" /></p>
 [Top](#Subject)
 
 ## 個別使用案例的描述
