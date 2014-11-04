@@ -20,19 +20,20 @@
   <tr>
     <td>車行</td>
     <td>
-      1.招牌保障<br>
-      2.提供車輛</td>
+      1.提供車輛<br>
+      2.管理顧客資料<br>
+      3.處理付款作業</td>
   </tr>
   
   <tr>
     <td>車行人員</td>
     <td>
-      1.處理現上預約<br>
+      1.處理線上預約<br>
       2.處理現場作業<br>
       3.交車/牽車</td>
   </tr>
   <tr>
-    <td>管理階層(老闆們)</td>
+    <td>管理階層  </td>
     <td>
       1.分析行銷狀況<br>
       2.執行策略規劃</td>
@@ -94,46 +95,52 @@
 ## 個別使用案例的描述
 
 ### 一、顧客基本資料作業
-<p><img src="http://i.imgur.com/HLeOFgY.png" title="使用案例描述_顧客基本資料作業" /></p>
+<p><img src="http://i.imgur.com/nBPoLzv.png" title="使用案例描述_顧客基本資料作業" /></p>
 ### 二、即時查詢作業
-<p><img src="http://i.imgur.com/25nK9OA.png" title="使用案例描述_即時查詢作業" /></p>
+<p><img src="http://i.imgur.com/x8kHrNs.png" title="使用案例描述_即時查詢作業" /></p>
 ### 三、處理租車紀錄
-<p><img src="http://i.imgur.com/aKsqVZR.png" title="使用案例描述_處理租車紀錄" /></p>
+<p><img src="http://i.imgur.com/X3njtTM.png" title="使用案例描述_處理租車紀錄" /></p>
 ### 四、付款處理作業
-<p><img src="http://i.imgur.com/wEYIf5o.png" title="使用案例描述_付款處理作業" /></p>
+<p><img src="http://i.imgur.com/QYAJFcu.png" title="使用案例描述_付款處理作業" /></p>
 ### 五、登記還車作業
-<p><img src="http://i.imgur.com/qAprUmg.png" title="使用案例描述_登記還車作業" /></p>
+<p><img src="http://i.imgur.com/QmDY9NO.png" title="使用案例描述_登記還車作業" /></p>
 ### 六、銷售分析作業
-<p><img src="http://i.imgur.com/2am7pIg.png" title="使用案例描述_銷售分析作業" /></p>
+<p><img src="http://i.imgur.com/bTQTnKY.png" title="使用案例描述_銷售分析作業" /></p>
 [Top](#Subject)
 
 ## 個別使用案例的活動圖
 
 ### 一、顧客基本資料作業
-<p><img src="http://i.imgur.com/1Pzql9f.png" title="使用案例活動圖_顧客基本資料作業" /></p>
+<p><img src="http://i.imgur.com/5qsatD5.jpg" title="使用案例活動圖_顧客基本資料作業" /></p>
 ### 二、即時查詢作業
-<p><img src="http://i.imgur.com/i6VfuwK.png" title="使用案例活動圖_即時查詢作業" /></p>
+<p><img src="http://i.imgur.com/vYAmnzV.jpg" title="使用案例活動圖_即時查詢作業" /></p>
 ### 三、處理租車紀錄
-<p><img src="http://i.imgur.com/Y1O5Y4p.png" title="使用案例活動圖_處理租車紀錄" /></p>
+<p><img src="http://i.imgur.com/4alxJ0M.jpg" title="使用案例活動圖_處理租車紀錄" /></p>
 ### 四、付款處理作業
-<p><img src="http://i.imgur.com/Ly0BXMd.png" title="使用案例活動圖_付款處理作業" /></p>
+<p><img src="http://i.imgur.com/wyMNQWv.jpg" title="使用案例活動圖_付款處理作業" /></p>
 ### 五、登記還車作業
-<p><img src="http://i.imgur.com/qS8yAZl.png" title="使用案例活動圖_登記還車作業" /></p>
+<p><img src="http://i.imgur.com/WqY0U78.jpg" title="使用案例活動圖_登記還車作業" /></p>
 ### 六、銷售分析作業
-<p><img src="http://i.imgur.com/fauX24A.png" title="使用案例活動圖_銷售分析作業" /></p>
+<p><img src="http://i.imgur.com/zujNPCo.jpg" title="使用案例活動圖_銷售分析作業" /></p>
 [Top](#Subject)
 
 ## 個別使用案例的名詞與概念類別列舉表
 
 ### 一、顧客基本資料作業
-<p><img src="http://i.imgur.com/CCtBxLX.png" title="名詞與概念類別列舉表_學生基本資料作業" /></p>
+<p><img src="http://i.imgur.com/nvl4B6p.png" title="名詞與概念類別列舉表_學生基本資料作業" /></p>
 ### 二、即時查詢作業
-<p><img src="http://i.imgur.com/FvPn74B.png" title="名詞與概念類別列舉表_即時查詢作業" /></p>
+<p><img src="http://i.imgur.com/9Xgy9dO.png" title="名詞與概念類別列舉表_即時查詢作業" /></p>
 ### 三、處理租車紀錄
-<p><img src="http://i.imgur.com/QKhk8zK.png" title="名詞與概念類別列舉表_處理租車紀錄" /></p>
+<p><img src="http://i.imgur.com/d7oFb9P.png" title="名詞與概念類別列舉表_處理租車紀錄" /></p>
 ### 四、付款處理作業
-<p><img src="http://i.imgur.com/EJCt3gC.png" title="名詞與概念類別列舉表_付款處理作業" /></p>
+<p><img src="http://i.imgur.com/6pfTS0q.png" title="名詞與概念類別列舉表_付款處理作業" /></p>
 ### 五、登記還車作業
-<p><img src="" title="名詞與概念類別列舉表_登記還車作業" /></p>
+<p><img src="http://i.imgur.com/CRzKy7O.png" title="名詞與概念類別列舉表_登記還車作業" /></p>
 ### 六、銷售分析作業
-<p><img src="" title="名詞與概念類別列舉表_銷售分析作業" /></p>
+<p><img src="http://i.imgur.com/3YoKwxs.png" title="名詞與概念類別列舉表_銷售分析作業" /></p>
+
+## 整個系統的初步類別圖
+
+<p><img src="http://i.imgur.com/1tjZFnC.png" title="整個系統的初步類別圖" /></p>
+[Top](#Subject)
+
