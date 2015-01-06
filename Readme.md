@@ -138,9 +138,27 @@
 <p><img src="http://i.imgur.com/CRzKy7O.png" title="名詞與概念類別列舉表_登記還車作業" /></p>
 ### 六、銷售分析作業
 <p><img src="http://i.imgur.com/3YoKwxs.png" title="名詞與概念類別列舉表_銷售分析作業" /></p>
+[Top](#Subject)
+
+## 個別使用案例的初步類別圖
+
+<p><img src="http://i.imgur.com/Oy4t7kC.png" title="顧客基本資料作業之初步類別圖" /></p>
+<p><img src="http://i.imgur.com/AQGaKHg.png" title="即時查詢作業之初步類別圖" /></p>
+<p><img src="http://i.imgur.com/FRuFEEj.png" title="處理租車記錄之初步類別圖" /></p>
+<p><img src="http://i.imgur.com/pCKVCGv.png" title="付款處理作業之初步類別圖" /></p>
+<p><img src="http://i.imgur.com/XlctJmZ.png" title="登記還車作業之初步類別圖" /></p>
+<p><img src="http://i.imgur.com/PYDp0Wa.png" title="銷售分析作業之初步類別圖" /></p>
+[Top](#Subject)
 
 ## 整個系統的初步類別圖
 
 <p><img src="http://i.imgur.com/1tjZFnC.png" title="整個系統的初步類別圖" /></p>
 [Top](#Subject)
+
+## 個別名稱事件之合約
+
+<p><img src="http://i.imgur.com/Oy4t7kC.png" title="顧客基本資料作業之初步類別圖" /></p>
+<p><img src="http://i.imgur.com/Oy4t7kC.png" title="顧客基本資料作業之初步類別圖" /></p>
+<p><img src="http://i.imgur.com/Oy4t7kC.png" title="顧客基本資料作業之初步類別圖" /></p>
+
 
